@@ -17,6 +17,16 @@ ArmadilloDoc is a custom script for RedM that adds a simple, decorated doctor's 
 
 ---
 
+## Dependencies
+
+This script requires the following dependency to function properly:
+
+- **[redm-objectloader](https://github.com/kibook/redm-objectloader)**: A RedM object loader that is necessary for loading and placing custom objects in the ArmadilloDoc environment.
+
+You can download and install the **redm-objectloader** by following the instructions in its repository.
+
+---
+
 ## Installation
 
 To install ArmadilloDoc on your RedM server, follow these steps:
