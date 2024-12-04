@@ -25,7 +25,7 @@ This script requires the following dependency to function properly:
 
 You can download and install the **redm-objectloader** by following the instructions in its repository.
 
-You will also need this shell for the cabin, be sure to extract it to your RedM server: - **[D3s_Cabin Shell](https://github.com/OfficialD3/D3s_Cabin/)**
+- **[D3s_Cabin Shell](https://github.com/OfficialD3/D3s_Cabin/)**
 
 ---
 
