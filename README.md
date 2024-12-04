@@ -32,7 +32,7 @@ To install ArmadilloDoc on your RedM server, follow these steps:
 
 # Preview
 Here’s a quick preview of what the doctor's office looks like in-game:
-(https://files.catbox.moe/zlw5h5.png)
-(https://files.catbox.moe/0fqhdo.png)
-(https://files.catbox.moe/le1i7q.png)
-(https://files.catbox.moe/dhqg8e.png)
+!(https://files.catbox.moe/zlw5h5.png)
+!(https://files.catbox.moe/0fqhdo.png)
+!(https://files.catbox.moe/le1i7q.png)
+!(https://files.catbox.moe/dhqg8e.png)
