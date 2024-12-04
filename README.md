@@ -1,4 +1,4 @@
-# ArmadilloDoc: A Simple Doctor's Office for RedM
+# ArmadilloDoc: A Simple Doctor's Office for the town of Armadillo
 
 ![Armadillo Doc Logo](https://cdn2.steamgriddb.com/icon/eb06b9db06012a7a4179b8f3cb5384d3/32/256x256.png) <!-- Replace with your actual logo -->
 
